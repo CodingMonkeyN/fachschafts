@@ -15,3 +15,26 @@ Die Getränkebestellungen werden durch den Getränkeward ausgelöst. Dieser muss
 - Kassenward muss zwingend vor Ort sein, um Einzahlung zu verifizieren
 - Getränkeward hat keinen guten Überblick über Getränkebestand
 - Getränkeward muss optimalen Bestellzeitpunkt abschätzen
+
+## Features
+
+**PFLICHT:**
+- Virtuelles Lager
+- Virtueller Kontostand
+- Produkt/Preis Mapping
+- Mangementoberfläche
+- Rechteverwaltung
+- Meherer Sprachen Spupport (I18N)
+
+**OPTINAL:**
+- Statistiken
+- Push-Benachrichtigungen
+
+## Technik
+
+- Frontend: Angular
+  - Warum? Vorwissen vorhanden
+- Backend: C#
+  - Warum? Vorwissen vorhanden
+- Datenbank: PostgreSQL
+  - Warum? OpenSource, gute Performance, Struckturierte Daten &rArr; relationales Datenbankschema
